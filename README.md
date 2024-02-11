@@ -29,7 +29,7 @@ Behold my mystical GitHub stats:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [LinkedIn](https://www.linkedin.com/in/hendrik-peters-74567920a/)
 
 ## 🔍 Stay Curious 
 
