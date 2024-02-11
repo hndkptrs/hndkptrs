@@ -15,7 +15,7 @@ I'm a Cloud/DevOps Engineer. My journey in the world of code has been nothing sh
 In the past I worked with many different languages like C++, C# and Java. Nowadays I'm mainly using the following technologies:
 
 - 🚀 Terraform / HCL
-- 🌐 PowerShell
+- ⚡ PowerShell
 - 🐧 Linux
 - 🫐 Azure
 
